@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e062ea8-3453-4bf9-833d-a54ff7c47307" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WieiNr1ExbzfKBASYnZDPuLcgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArrayBasedDataStructuresDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBasedDataStructuresDriver" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayBasedDataStructuresDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e062ea8-3453-4bf9-833d-a54ff7c47307" name="Default Changelist" comment="" />
+      <created>1579636968345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579636968345</updated>
+      <workItem from="1579636969563" duration="1866000" />
+      <workItem from="1580161298375" duration="3901000" />
+      <workItem from="1580235340982" duration="30881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1334" y="335" key="#com.intellij.ide.util.MemberChooser" timestamp="1580163264184">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="1334" y="335" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1199@0.23.2048.1199" timestamp="1580163264184" />
+    <state width="974" height="304" key="GridCell.Tab.0.bottom" timestamp="1580449758074">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="304" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1580449523636" />
+    <state width="974" height="304" key="GridCell.Tab.0.bottom/0.23.2048.1199@0.23.2048.1199" timestamp="1580449758074" />
+    <state width="974" height="304" key="GridCell.Tab.0.center" timestamp="1580449758073">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="304" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1580449523634" />
+    <state width="974" height="304" key="GridCell.Tab.0.center/0.23.2048.1199@0.23.2048.1199" timestamp="1580449758073" />
+    <state width="974" height="304" key="GridCell.Tab.0.left" timestamp="1580449758073">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="304" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1580449523634" />
+    <state width="974" height="304" key="GridCell.Tab.0.left/0.23.2048.1199@0.23.2048.1199" timestamp="1580449758073" />
+    <state width="974" height="304" key="GridCell.Tab.0.right" timestamp="1580449758074">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="304" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1580449523635" />
+    <state width="974" height="304" key="GridCell.Tab.0.right/0.23.2048.1199@0.23.2048.1199" timestamp="1580449758074" />
+    <state x="1038" y="265" key="SettingsEditor" timestamp="1580280912724">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="1038" y="265" key="SettingsEditor/0.23.2048.1199@0.23.2048.1199" timestamp="1580280912724" />
+    <state x="1220" y="459" key="com.intellij.ide.util.TipDialog" timestamp="1580248645713">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="1220" y="459" key="com.intellij.ide.util.TipDialog/0.23.2048.1199@0.23.2048.1199" timestamp="1580248645713" />
+    <state x="0" y="23" width="1031" height="1198" key="dock-window-1" timestamp="1580361778238">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="0" y="23" width="1031" height="1198" key="dock-window-1/0.23.2048.1199@0.23.2048.1199" timestamp="1580361778238" />
+    <state x="1280" y="389" key="extract.method.dialog" timestamp="1580361172397">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="1280" y="389" key="extract.method.dialog/0.23.2048.1199@0.23.2048.1199" timestamp="1580361172397" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580444487601">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.2048.1199@0.23.2048.1199" timestamp="1580444487601" />
+    <state x="1186" y="293" width="670" height="676" key="search.everywhere.popup" timestamp="1580412924328">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state x="1186" y="293" width="670" height="676" key="search.everywhere.popup/0.23.2048.1199@0.23.2048.1199" timestamp="1580412924328" />
+  </component>
+</project>

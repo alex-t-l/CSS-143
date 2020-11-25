@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bd4fca5-13ab-46d7-92ed-0cdd77932f4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WgVU7J8yVnNz6l1Zvcw6vxeNFW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.FractionsV2">
+    <configuration name="FractionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FractionMain" />
+      <module name="FractionsV2-copy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractionsV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FractionsV2" />
+      <module name="FractionsV2-copy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FractionsV2" />
+        <item itemvalue="Application.FractionMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd4fca5-13ab-46d7-92ed-0cdd77932f4d" name="Default Changelist" comment="" />
+      <created>1579571238198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579571238198</updated>
+      <workItem from="1579571240312" duration="63000" />
+      <workItem from="1579571326466" duration="304000" />
+      <workItem from="1579574055590" duration="4264000" />
+      <workItem from="1579629113491" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="837" y="356" key="#com.intellij.ide.util.MemberChooser" timestamp="1579574728807">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="837" y="356" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1280@0.0.2048.1280" timestamp="1579574728807" />
+    <state width="1231" height="336" key="GridCell.Tab.0.bottom" timestamp="1579587313803">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1579574820764" />
+    <state width="1231" height="336" key="GridCell.Tab.0.bottom/0.23.2048.1199@0.23.2048.1199" timestamp="1579587313803" />
+    <state width="1231" height="336" key="GridCell.Tab.0.center" timestamp="1579587313803">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1579574820763" />
+    <state width="1231" height="336" key="GridCell.Tab.0.center/0.23.2048.1199@0.23.2048.1199" timestamp="1579587313803" />
+    <state width="1231" height="336" key="GridCell.Tab.0.left" timestamp="1579587313802">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1579574820762" />
+    <state width="1231" height="336" key="GridCell.Tab.0.left/0.23.2048.1199@0.23.2048.1199" timestamp="1579587313802" />
+    <state width="1231" height="336" key="GridCell.Tab.0.right" timestamp="1579587313803">
+      <screen x="0" y="23" width="2048" height="1199" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1579574820764" />
+    <state width="1231" height="336" key="GridCell.Tab.0.right/0.23.2048.1199@0.23.2048.1199" timestamp="1579587313803" />
+    <state x="300" y="534" key="com.intellij.ide.util.TipDialog" timestamp="1579629113084">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="300" y="534" key="com.intellij.ide.util.TipDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1579629113084" />
+    <state x="300" y="534" key="com.intellij.ide.util.TipDialog/0.23.2048.1199@0.23.2048.1199" timestamp="1579571293017" />
+  </component>
+</project>

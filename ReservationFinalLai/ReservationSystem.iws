@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="898c4f82-97ef-4b63-be2e-43b6fbc3414f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yia8tGtsxnqa6R62JB5Q5yO7wM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CafeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CafeDriver" />
+      <module name="ReservationFinalLai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CafeDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898c4f82-97ef-4b63-be2e-43b6fbc3414f" name="Default Changelist" comment="" />
+      <created>1583427712511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583427712511</updated>
+      <workItem from="1583427713832" duration="1283000" />
+      <workItem from="1583457189487" duration="147000" />
+      <workItem from="1583737153565" duration="27028000" />
+      <workItem from="1584035881025" duration="81000" />
+      <workItem from="1584119992642" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="810" y="312" key="#com.intellij.ide.util.MemberChooser" timestamp="1583984140274">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state x="709" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1583788973535" />
+    <state x="810" y="312" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1189@0.23.2048.1189" timestamp="1583984140274" />
+    <state width="1109" height="323" key="GridCell.Tab.0.bottom" timestamp="1584034906692">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state width="1109" height="323" key="GridCell.Tab.0.bottom/0.23.2048.1189@0.23.2048.1189" timestamp="1584034906692" />
+    <state width="1109" height="323" key="GridCell.Tab.0.center" timestamp="1584034906692">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state width="1109" height="323" key="GridCell.Tab.0.center/0.23.2048.1189@0.23.2048.1189" timestamp="1584034906692" />
+    <state width="1109" height="323" key="GridCell.Tab.0.left" timestamp="1584034906692">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state width="1109" height="323" key="GridCell.Tab.0.left/0.23.2048.1189@0.23.2048.1189" timestamp="1584034906692" />
+    <state width="1109" height="323" key="GridCell.Tab.0.right" timestamp="1584034906692">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state width="1109" height="323" key="GridCell.Tab.0.right/0.23.2048.1189@0.23.2048.1189" timestamp="1584034906692" />
+    <state x="610" y="189" key="SettingsEditor" timestamp="1583986349438">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state x="534" y="176" key="SettingsEditor/0.23.1792.1097/1792.23.1920.989@0.23.1792.1097" timestamp="1583788240137" />
+    <state x="610" y="189" key="SettingsEditor/0.23.2048.1189@0.23.2048.1189" timestamp="1583986349438" />
+    <state x="1249" y="479" key="com.intellij.ide.util.TipDialog" timestamp="1584119992616">
+      <screen x="0" y="23" width="2048" height="1190" />
+    </state>
+    <state x="1093" y="396" key="com.intellij.ide.util.TipDialog/0.23.1792.1029/1792.23.1920.1057@0.23.1792.1029" timestamp="1583737153552" />
+    <state x="1249" y="479" key="com.intellij.ide.util.TipDialog/0.23.2048.1189@0.23.2048.1189" timestamp="1584036552936" />
+    <state x="1249" y="479" key="com.intellij.ide.util.TipDialog/0.23.2048.1190@0.23.2048.1190" timestamp="1584119992615" />
+    <state x="1091" y="270" width="766" height="733" key="search.everywhere.popup" timestamp="1583986272877">
+      <screen x="0" y="23" width="2048" height="1189" />
+    </state>
+    <state x="955" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097/1792.23.1920.989@0.23.1792.1097" timestamp="1583789869311" />
+    <state x="1091" y="270" width="766" height="733" key="search.everywhere.popup/0.23.2048.1189@0.23.2048.1189" timestamp="1583986272877" />
+  </component>
+</project>

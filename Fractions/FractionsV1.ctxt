@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FractionsV1
+comment0.text=\n\ Fraction\ program\ that\ counts\ how\ many\ times\ a\ fraction\ appears.\ Doubles\ and\ ArrayLists\ were\ NOT\ used.\n\ FractionsV1\n\n\ Alex\ Lai\n\ January\ 5,\ 2020\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method,\ which\ prints\ out\ the\ count\ of\ the\ fractions.\n\ @param\ args\n
+comment2.params=countFractions
+comment2.target=int\ countLines(java.util.Scanner)
+comment2.text=\n\ Counts\ how\ many\ lines\ are\ in\ the\ fractions.txt\ file.\n\ @param\ countFractions\ scanner\ that\ counts\ the\ lines\ in\ the\ file\n\ @return\ how\ many\ lines\ are\ in\ the\ file.\n
+comment3.params=n\ d
+comment3.target=int\ findGCD(int,\ int)
+comment3.text=\n\ \ Reference\:\ https\://beginnersbook.com/2018/09/java-program-to-find-gcd-of-two-numbers/\n\ \ Gets\ the\ Greatest\ Common\ Denominator\ given\ two\ numbers.\u00A8\n\ \ @param\ n\ numerator\n\ \ @param\ d\ denominator\n\ \ @return\ greatest\ common\ denominator\ of\ n\ and\ d\n
+numComments=4

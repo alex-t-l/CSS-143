@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FractionCounter
+comment1.params=theFraction
+comment1.target=FractionCounter(Fraction)
+comment2.params=newFraction
+comment2.target=boolean\ compareAndIncrement(Fraction)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ObjectList
+comment0.text=\n\ The\ Bigger\ Picture\ \u2013\ The\ ObjectList\ (or\ ArrayList\ Class)\n\n\ Alex\ Lai\n\ v1.0\n
+comment1.params=nx
+comment1.target=void\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=i
+comment4.target=java.lang.Object\ get(int)
+numComments=5
